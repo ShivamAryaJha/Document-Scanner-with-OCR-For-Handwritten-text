@@ -1,2 +1,2 @@
 # Document-Scanner-with-OCR-For-Handwritten-text
-A Camscanner-like document scanner which performs perspective transform as well as uses an embedded OCR to recognize the text in the document
+A Camscanner-like document scanner project with embedded OCR Features. It is built to not only perform perspective transforms to give you a bird's eye top view of your document but also improves the quality of the image to enhance readability. Moreover, it has an embedded OCR (Optical Character Recognition) tool, built from scratch using OpenCV and CNN based Deep Learning Model, to detect as well as recognize the content of the document text. 
